@@ -1,11 +1,11 @@
 # Mozilla Web Literacy Training
-## Sharing Your Work with Github!
+# _Sharing Your Work with Github_!
 
 This repo includes three projects for participants in Mozilla's Web Literacy Training to choose from, in order to practice some of the skills learned during the training.
 
 Participants can fork this repo and then choose a project template to edit on their forked version.
 
-## Fork this repo:
+##### *Fork this repo*:
 
 Click the "Fork" button in the top right of this page
 
@@ -27,7 +27,7 @@ Click the pencil icon to edit
 
 Add a line to the README explaining that you've created this repo as part of a web literacy training. Check out this [markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) and experiment with different styles you can apply using markdown. Have fun!
 
-## Save and publish your changes
+# Save and publish your changes
 
 To save and publish your changes, scroll down and complete the information in the "Commit changes" box. Add a note about what you changed. This is an important part of version control—it allows other people (and even your future self!) to know what changes you made and why. 
 
